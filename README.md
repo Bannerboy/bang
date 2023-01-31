@@ -10,7 +10,11 @@ Everything written here is open to debate.
 
 ## Creative vs Unit
 
-For years, we've called things "Units".
+For years, we've called things "Units". There is no strong argument for any side. Changing to creative to could mark a difference between "the old way", and "the new way" of doing things.
+
+## Placement
+
+TBD. Basically, the name we call to a group of Creatives/Units that work together, like a fireplace.
 
 ## Width and Height vs dimensions
 
@@ -33,3 +37,7 @@ Also, file size should be set in bytes. You're free to display them in any other
 Quick tip: to make it easier to read in JavaScript, it's possible to use natively an underscore to seperate numbers wherever you want:
 
 100000 > 100_000
+
+## Ad Server vs Platform
+
+An other topic. Slight preference for Ad Server, no strong argument for any side.

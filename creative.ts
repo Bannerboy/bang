@@ -68,6 +68,12 @@ class HTMLCreative extends Creative {
    * Previously known as "platform"
    */
   adserver: string;
+
+  fallback: File|string;
+
+  // get fallbackFileSize(): number {
+  //   return this.fileSize;
+  // }
 }
 
 type CreativeType = 'html' | 'image' | 'video' | 'photoshop';
